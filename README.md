@@ -4,6 +4,6 @@
 
 <p> 🌱 Sto Imparando React, Nodejs </p> <br>
 
-<p> 📫 Puoi Contattarmi su emanuelzignale@gmail.com </p> <br>
+<p> 📫 Puoi Contattarmi su emanuelzignale@gmail.com</p> <br>
 
 
