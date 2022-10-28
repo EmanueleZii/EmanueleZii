@@ -10,4 +10,3 @@
 
 <p> HTML5 / CSS / JS / PHP / SQL / WORDPRESS </p>
 
-![unity](https://user-images.githubusercontent.com/77202606/198578133-d1ccb9b3-c920-4206-ba83-09f69f04c820.jpg)
