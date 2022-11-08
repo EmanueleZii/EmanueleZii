@@ -6,7 +6,7 @@
 
 <p> 📫 Puoi Contattarmi su emanuelzignale@gmail.com</p> <br>
 
-<h1> Linguaggi Di Programmazione / cms </h1>
+<h1> Linguaggi Di Programmazione / CMS </h1>
 
 <p> HTML5 / CSS / JS / PHP / SQL / WORDPRESS </p>
 
