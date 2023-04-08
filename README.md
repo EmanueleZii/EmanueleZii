@@ -10,8 +10,10 @@
 
 <p> Skills </p>
 <span>Html5</span>
+
 ![HTML5](https://user-images.githubusercontent.com/77202606/230730553-a81b4994-8b84-4b05-a1c2-5baef285261b.png)
 <span>CSS</span>
+
 ![css](https://user-images.githubusercontent.com/77202606/230730558-807d7408-d841-43ed-a7ba-730427e76224.png)
 <span>Javascript</span>
 ![js](https://user-images.githubusercontent.com/77202606/230730560-1bf70aa3-d108-4d64-b1b0-dd7950e9c43c.png)
