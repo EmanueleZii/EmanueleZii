@@ -11,7 +11,7 @@
 <p> Skills </p>
 <span>Html5</span>
 
-<img href="https://user-images.githubusercontent.com/77202606/230730553-a81b4994-8b84-4b05-a1c2-5baef285261b.png" width="50px" height="50px">
+<img href="https://user-images.githubusercontent.com/77202606/230730553-a81b4994-8b84-4b05-a1c2-5baef285261b.png" width="150px" height="150px">
 
 <span>CSS</span>
 
