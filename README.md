@@ -8,6 +8,6 @@
 
 <h1> Linguaggi Di Programmazione / CMS </h1>
 
-<p> Skills : HTML5 / CSS / JAVASCRIPT / PHP /SQL /WORDPRESS </p>
+<p>  HTML5 / CSS / BOOSTRAP / JQUERY / JAVASCRIPT / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP </p>
 
 
