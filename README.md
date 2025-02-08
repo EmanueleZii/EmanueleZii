@@ -8,6 +8,6 @@
 
 <h1> Linguaggi Di Programmazione / CMS  / OS e Software</h1>
 
-<p>  HTML5 / CSS / BOOSTRAP / JQUERY / JAVASCRIPT / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP / Linux (Debian) / Unity C# </p>
+<p>  HTML5 / CSS / BOOTSTRAP / JQUERY / JAVASCRIPT / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP / Linux (Debian) / Unity C# </p>
 
 
