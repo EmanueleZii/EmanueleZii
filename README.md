@@ -9,6 +9,7 @@
 <h1> Linguaggi Di Programmazione / CMS  / OS e Software</h1>
 
 <span>  HTML5 / CSS / BOOTSTRAP / JQUERY / JAVASCRIPT / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP / Linux (Debian) / Unity C# </span>
+<hr>
 <div>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="100" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="100" />
