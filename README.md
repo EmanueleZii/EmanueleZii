@@ -1,12 +1,12 @@
-<h1> Benvenuto 👋 </h1><br>
+<h1> Welcome 👋 </h1><br>
 
-<p> Full Stack Junior Developer Appassionato di Web Development 👨‍💻 e Game Development 🎮 (Unity3D/Godot Engine) </p> <br>
+<p> Full Stack Junior Developer passionate about  Web Development 👨‍💻 and Game Development 🎮 (Unity3D/Godot Engine) </p> <br>
 
-<p> 🌱 Sto Studiando React, Nodejs </p> <br>
+<p> 🌱 I'm studying React and Nodejs </p> <br>
 
-<p> 📫 Puoi Contattarmi su emanuelzignale@gmail.com</p> <br>
+<p> 📫 Contact me: emanuelzignale@gmail.com</p> <br>
 
-<h1> Linguaggi Di Programmazione / CMS  / OS e Software</h1>
+<h1> Programming Language / CMS  / OS and Software</h1>
 
 <span>  HTML5 / CSS / BOOTSTRAP / JQUERY / JAVASCRIPT / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP / Linux (Debian) / Unity C# </span>
 <hr>
