@@ -10,4 +10,4 @@
 
 <p>  HTML5 / CSS / BOOTSTRAP / JQUERY / JAVASCRIPT / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP / Linux (Debian) / Unity C# </p>
 
-
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
