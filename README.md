@@ -8,7 +8,7 @@
 
 <h1> Programming Language / CMS  / OS and Software</h1>
 
-<span>  HTML5 / CSS / BOOTSTRAP / JQUERY / JAVASCRIPT / PYTHON / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP / Linux (Debian) / Unity C# / Godot Engine </span>
+<span>  HTML5 / CSS / BOOTSTRAP / JQUERY / JAVASCRIPT / PYTHON / PHP /LARAVEL /SQL / WORDPRESS / PRESTASHOP / Linux (Debian) / Unity C# </span>
 <hr>
 <div>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="100" />
