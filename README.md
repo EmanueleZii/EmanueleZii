@@ -1,7 +1,7 @@
 <h1> Welcome 👋 </h1><br>
 <img src="https://github.com/user-attachments/assets/243e04f8-9096-4426-8f9b-217b2a6edff4" />
 
-<p> Full Stack Junior Developer passionate about  Web Development 👨‍💻 and Game Development 🎮 (Unity3D/Godot Engine) </p> <br>
+<p> Full Stack Junior Developer passionate about  Web Development 👨‍💻 and Game Development 🎮 Unity3D </p> <br>
 
 <p> 📫 Contact me: emanuelzignale@gmail.com</p> <br>
 
