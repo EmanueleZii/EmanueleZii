@@ -1,5 +1,6 @@
 <h1> Welcome 👋 </h1><br>
-<img src="https://github.com/user-attachments/assets/243e04f8-9096-4426-8f9b-217b2a6edff4" />
+<img src="https://github.com/user-attachments/assets/d3a82ee2-c51a-46a4-b6f9-593c0343c701" />
+
 
 <p> Full Stack Junior Developer passionate about  Web Development 👨‍💻 and Game Development 🎮 Unity3D </p> <br>
 
