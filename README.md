@@ -53,9 +53,3 @@ PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Presta
 ![](https://github-readme-stats.vercel.app/api?username=EmanueleZii&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=EmanueleZii&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleZii&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 📌 Top Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=EmanueleZii&limit=5&theme=dark&combine_all_yearly_contributions=true)
