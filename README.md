@@ -3,7 +3,7 @@
 ### 👨‍💻 Junior Developer | Web & Game Enthusiast
 
 Sono uno sviluppatore junior con esperienza in **Back-end PHP**, **Web Development** e **Game Development**.  
-Ho lavorato su progetti reali in e-commerce, siti web aziendali e app Unity, affiancando lo studio con stage e corsi intensivi in **IT Support**, **Cybersecurity**, e **Programmazione Unity**.
+Ho lavorato su progetti reali in e-commerce, siti web aziendali e app Unity, affiancando lo studio con stage e corsi intensivi in**Web Developer **IT Support**, **Cybersecurity**, e **Corsi di Programmazione Unity**.
 
 🔧 **Stack principale:**  
 PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Prestashop, C#, Unity, Nodejs, NPM, React
