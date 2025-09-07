@@ -6,7 +6,7 @@ Sono uno sviluppatore junior con esperienza in **Back-end PHP**, **Web Developme
 Ho lavorato su progetti reali in e-commerce, siti web aziendali e app Unity, affiancando lo studio con stage e corsi intensivi in**Web Developer **IT Support**, **Cybersecurity**, e **Corsi di Programmazione Unity**.
 
 🔧 **Stack principale:**  
-PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Prestashop, C#, Unity, Nodejs, NPM, React
+PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Prestashop, C#, Unity, Nodejs, NPM, React, Python
 
 🎮 Appassionato di Game Dev,  
 💡 Sono curioso, determinato e sempre pronto a imparare nuove tecnologie.
