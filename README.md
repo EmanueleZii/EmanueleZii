@@ -1,6 +1,7 @@
 # 👋 Welcome!
 
 ### 👨‍💻 Junior Developer | Web & Game Enthusiast
+[![Codewars](https://www.codewars.com/users/EmanueleZii/badges/large)](https://www.codewars.com/users/EmanueleZii)
 
 Sono uno sviluppatore junior con esperienza in **Back-end PHP**, **Web Development** e **Game Development**.  
 Ho lavorato su progetti reali in e-commerce, siti web aziendali e app Unity, affiancando lo studio con stage e corsi intensivi in**Web Developer **IT Support**, **Cybersecurity**, e **Corsi di Programmazione Unity**.
@@ -19,7 +20,6 @@ PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Presta
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-zignale-06a73a220)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelzignale@gmail.com) 
-[![Codewars](https://www.codewars.com/users/EmanueleZii/badges/large)](https://www.codewars.com/users/EmanueleZii)
 
 ---
 
