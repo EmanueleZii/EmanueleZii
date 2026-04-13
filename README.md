@@ -1,9 +1,22 @@
 # 👋 Welcome!
 
-### 👨‍💻 Junior Developer| Junior Back End Developer | Web & Game Enthusiast
+### 👨‍💻 Junior Back End Developer | Web & Game Enthusiast
 
-Sono uno sviluppatore junior con esperienza in **Back-end PHP**, **Web Development** e **Game Development**.  
+Sono uno sviluppatore junior con esperienza in **Back-end PHP/Python**, **Web Development** e **Game Development**.  
 Ho lavorato su progetti reali in e-commerce, siti web aziendali e app Unity, affiancando lo studio con stage e corsi intensivi in**Web Developer **IT Support**, **Cybersecurity**, e **Corsi di Programmazione Unity**.
+
+---
+## 🧭 Il mio percorso
+
+Ho costruito la mia esperienza attraverso stage e corsi intensivi:
+- 🌐 Stage come **Webmaster** — HTML, CSS, WordPress
+- 🖥️ Stage come **PHP Developer** — Laravel, MySQL, backend web
+- 🐍 Tirocinio come **Odoo Developer** — Python, moduli ERP custom
+- 📚 Corsi formativi in **Cybersecurity**, **C#/Unity** e **Javascript/React**
+
+Ogni tappa mi ha dato una prospettiva diversa sullo sviluppo software.
+
+---
 
 🔧 **Stack principale:**  
 PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Prestashop, C#, Unity, Nodejs, NPM, React, Python, Odoo
@@ -32,15 +45,12 @@ PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Presta
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
