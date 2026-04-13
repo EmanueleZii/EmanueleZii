@@ -10,7 +10,7 @@ Ho lavorato su progetti reali in e-commerce, siti web aziendali e app Unity, aff
 
 Ho costruito la mia esperienza attraverso stage e corsi intensivi:
 - 🌐 Stage come **Webmaster** — HTML, CSS, WordPress
-- 🖥️ Stage come **PHP Developer** — Laravel, MySQL, backend web
+- 🖥️ Stage come **PHP Developer** — Prestashop/Laravel, MySQL, backend web
 - 🐍 Tirocinio come **Odoo Developer** — Python, moduli ERP custom
 - 📚 Corsi formativi in **Cybersecurity**, **C#/Unity** e **Javascript/React**
 
@@ -19,7 +19,7 @@ Ogni tappa mi ha dato una prospettiva diversa sullo sviluppo software.
 ---
 
 🔧 **Stack principale:**  
-PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress, Prestashop, C#, Unity, Nodejs, NPM, React, Python, Odoo
+PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress con Elementor, Prestashop, C#, Unity, Nodejs, React, Python, Odoo
 
 🎮 Appassionato di Game Dev,  
 💡 Sono curioso, determinato e sempre pronto a imparare nuove tecnologie.
