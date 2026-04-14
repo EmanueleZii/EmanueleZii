@@ -19,7 +19,7 @@ Ogni tappa mi ha dato una prospettiva diversa sullo sviluppo software.
 ---
 
 🔧 **Stack principale:**  
-PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress con Elementor, Prestashop, C#, Unity, Nodejs, React, Python, Odoo
+PHP, MySQL, Laravel, HTML, CSS, JavaScript, Bootstrap, WordPress con Elementor, Prestashop, React, Python, Odoo
 
 🎮 Appassionato di Game Dev,  
 💡 Sono curioso, determinato e sempre pronto a imparare nuove tecnologie.
@@ -53,7 +53,7 @@ PHP, MySQL, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress con Ele
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-## 🌐 Socials
+## 🌐 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-zignale-06a73a220)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelzignale@gmail.com) 
