@@ -53,6 +53,13 @@ PHP, MySQL, Laravel, HTML, CSS, JavaScript, Bootstrap, WordPress con Elementor, 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+
+## 📌 Progetti in evidenza
+
+I progetti pinnati rappresentano il mio lavoro backend principale.  
+Gli altri repository presenti nel profilo (React, Node.js, C#, Unity) sono progetti esplorativi — li tengo pubblici per dimostrare versatilità e curiosità verso tecnologie diverse.
+
+---
 ## 🌐 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-zignale-06a73a220)  
